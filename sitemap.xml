@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://127.0.0.1:5500/SEO/index.html</loc>
+    <loc>https://mustapha724.github.io/index.html</loc>
     <lastmod>2020-12-14</lastmod>
         <priority>1</priority>
   </url>
   <url>
-    <loc>http://127.0.0.1:5500/SEO/2019/index1.html</loc>
+    <loc>http://mustapha724.github.io/2019/index1.html</loc>
     <lastmod>2020-12-14</lastmod>
      <priority>0.8</priority>
   </url>
 <url>
-    <loc>http://127.0.0.1:5500/SEO/2020/index2.html</loc>
+    <loc>https://mustapha724.github.io/2020/index2.html</loc>
     <lastmod>2020-12-14</lastmod>
      <priority>0.8</priority>
   </url>
